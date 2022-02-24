@@ -1,4 +1,4 @@
-# mycomics
+# vue-dc-comics
 
 ## Project setup
 ```
