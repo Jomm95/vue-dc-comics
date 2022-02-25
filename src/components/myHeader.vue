@@ -1,15 +1,16 @@
-<template
->
-    <div></div>
+<template>
+    <div>
+        <h1>Wow bell sto sito</h1>
+        
+    </div>
 </template>
-
+    
 <script>
-    export default {
-        name : 'myHeader',
-    }
+export default {
+    name : "MyHeader"
+}
 </script>
 
-<style scoped lang="scss">
+<style scoped>
 
 </style>
-
