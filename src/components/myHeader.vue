@@ -69,8 +69,8 @@ nav {
 }
 
 .logo {
-    width: 60%;
-    height: 60%;
+    width: 65px;
+    height: 65px;
 }
 
 ul {
