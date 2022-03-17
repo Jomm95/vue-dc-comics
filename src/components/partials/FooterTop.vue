@@ -63,7 +63,7 @@ export default {
 .containerFooterTop {
   display: flex;
   height:270px;
-  background-image: url('../src/assets/img/footer-bg.jpg');
+  background-image: url('./assets/img/footer-bg.jpg');
 
     .col-left {
         margin-left:180px;
