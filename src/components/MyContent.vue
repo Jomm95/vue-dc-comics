@@ -15,7 +15,7 @@ export default {
 <style scoped lang="scss">
 
 .content {
-  height:120px;
+  height:110px;
   color:white;
   background-color: black;
   text-align: center;

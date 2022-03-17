@@ -1,5 +1,5 @@
 <template>
-  <div class="contentFooterBottom">
+  <div class="containerFooterBottom">
     <h1>My FooterBottom</h1>
   </div>
     
@@ -14,10 +14,12 @@ export default {
 
 <style scoped lang="scss">
 
-.contentFooterBottom {
+@import './src/assets/variables.scss';
+
+.containerFooterBottom {
   height:120px;
   color:white;
-  background-color: black;
+  background-color: #303030;
   text-align: center;
 }
 
