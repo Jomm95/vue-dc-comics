@@ -17,10 +17,11 @@ export default {
 @import './src/assets/variables.scss';
 
 .containerFooterBottom {
-  height:120px;
-  color:white;
-  background-color: #303030;
-  text-align: center;
+  height:300px;
+  background-image: url('../../assets/img/footer-bg.jpg') left right, url('../../assets/img/dc-logo-bg.png') right no-repeat;
+  background-size: 200px, 300px;
+  background-repeat: no-repeat;
+  
 }
 
 </style>

@@ -63,7 +63,7 @@ export default {
 .containerFooterTop {
   display: flex;
   height:270px;
-  background-image: url('./assets/img/footer-bg.jpg');
+  background-image: url('../../assets/img/footer-bg.jpg'), url('../../assets/img/dc-logo-bg.png');
 
     .col-left {
         margin-left:180px;
@@ -85,6 +85,7 @@ export default {
     
         li {
             font-size: 10px;
+            font-weight: 400;
             color:$greyText;
         }
     }
